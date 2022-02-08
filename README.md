@@ -32,8 +32,8 @@ App will be viewable on http://localhost:3000
 
 ### Wireframe for Desktop
 
-[`<img src="timeline-desktop.jpg" width="600"/>`](timeline-desktop.jpg)
+![wireframe-desktop](https://github.com/mokhld/timeline-react-component/blob/main/timeline-desktop.jpg?raw=true)
 
 ### Wireframe for Mobile
 
-[`<img src="timeline-mobile.jpg" width="200"/>`](timeline-mobile.jpg)
+![wireframe-desktop](https://github.com/mokhld/timeline-react-component/blob/main/timeline-mobile.jpg?raw=true)
