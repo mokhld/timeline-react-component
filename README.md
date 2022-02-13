@@ -6,6 +6,8 @@
 
 React-typescript component that displays a Timeline of events by order of occurance, bottom to top. On Desktop, the events are to be staggered inbetween two branches, whereas on mobile they would collapse to a single branch (see [Wireframes](#the-end-result).)
 
+See it live: https://timeline-component.surge.sh/
+
 Every 5 seconds a new event is added on top of the Timeline, up to a defined max. After the cap has been reached, the last event is removed also.
 
 Each Event is made of a:
